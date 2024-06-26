@@ -1,16 +1,20 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohd zeeshan</h1>
+<h3 align="center">🚀 Passionate Mobile App Developer | 3 Years of Experience Greetings! 👋 I'm Mohammed Zeeshan, a mobile application developer with 3 years of hands-on experience. I specialize in Android Studio, Xcode, and Flutter, transforming client visions into robust, user-friendly applications. 📱 Expertise: Cross-platform mobile app development with Flutter UI design and prototyping Collaboration with cross-functional teams Integration of REST and SOAP APIs Team management and leadership 💡 Innovation Driven: I thrive on innovation, integrating cutting-edge features and functionalities to ensure my apps stand out in today's competitive market. 👨‍💻 Collaboration and Communication: Believing in the power of collaboration, I've successfully worked with cross-functional teams, fostering creativity and innovation. My ability to articulate technical concepts to non-technical stakeholders has been key to successful project outcomes. 🏆 Achievements: Proudly completed multiple in-house projects with UI design, including I-FAR (15 days, Saudi Client), IntelliSense, Smart Infographics, Speech to Text (US-based project), and currently managing a large-scale e-commerce website project with a dedicated team and client collaboration. 🔗 Let's Connect: Open to networking and discussions on industry trends, insights, or potential collaborations. Reach out—I look forward to expanding my network and contributing to the vibrant community of mobile app developers. Thank you for visiting my profile. Let's connect and explore the exciting possibilities in the world of mobile application development</h3>
 
-<!--
-**Emzyzeeshan/Emzyzeeshan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emzyzeeshan" alt="emzyzeeshan" /></a> </p>
 
-Here are some ideas to get you started:
+- Hi I'm worked on political science app [Political Pulse](https://play.google.com/store/apps/details?id=com.political.pulse)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning *Node, express,backend*
+
+- 💬 Ask me about *Flutter, Dart*
+
+- 📫 How to reach me *zeeshanmohammed17598@gmail.com*
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mohd zeeshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd zeeshan" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
